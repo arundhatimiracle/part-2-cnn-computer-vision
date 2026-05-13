@@ -1,4 +1,4 @@
-## CNN Concept Explanation
+## TASK 6 -CNN Concept Explanation
 
 ### 1. What is Convolution?
 Convolution is a process where small filters are applied to an image to identify important features such as edges, textures, shapes, or patterns. In CNNs, convolution helps the model understand visual details from images.
