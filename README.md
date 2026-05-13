@@ -11,3 +11,12 @@ ReLU (Rectified Linear Unit) is used as an activation function because it helps 
 
 ### 4. Why are CNNs Better Than Regular Feed-Forward Networks for Images?
 CNNs are better for image data because they automatically learn image features such as patterns, edges, and textures. Regular neural networks treat every pixel separately, while CNNs preserve spatial relationships in images and require fewer parameters.
+
+
+## TASK 7 -Business Use Case Mapping
+
+### Manufacturing / Automobile Industry
+
+This computer vision solution can be used in the automobile manufacturing industry for detecting defects on product surfaces. The CNN model can identify problems such as dents, scratches, and stains automatically.
+
+Instead of checking products manually, companies can use cameras with AI systems to inspect items faster and more accurately. This helps improve product quality, reduce human effort, save time, and lower production costs.
